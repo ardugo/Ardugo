@@ -1,0 +1,2 @@
+This is the repository for my Arduino projects. You can have more information at http://ardugonic.blogspot.com.
+Licensed under Creative Commons Attribution Non-Commercial Share Alike (cc by-nc-sa) (additional info at http://creativecommons.org/licenses/by-nc-sa/3.0/)
